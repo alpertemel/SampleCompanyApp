@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023100720731",
+    "firebase_url": "https://ucorp-b02a4.firebaseio.com",
+    "project_id": "ucorp-b02a4",
+    "storage_bucket": "ucorp-b02a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023100720731:android:eb69f6068743982569117e",
+        "android_client_info": {
+          "package_name": "com.example.ucorpfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023100720731-b317t77h10ndutq3gr0adljkvm3l6q2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82Xz-CWWWZT8AUX_rzPrkmtpQl6_3QoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023100720731-b317t77h10ndutq3gr0adljkvm3l6q2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
